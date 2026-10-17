@@ -1,0 +1,8 @@
+{
+  "leaderboard": {
+    "stats": [
+      { "key": "survival", "label": "Seconds survived", "order": "highest" },
+      { "key": "sparks", "label": "Sparks collected", "order": "highest" }
+    ]
+  }
+}
